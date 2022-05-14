@@ -1,27 +1,16 @@
 import React from "react";
-import { Link, Redirect } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 class Header extends React.Component {
-    constructor(){
-        super();
-
-        this.state = {
-            home: true,
-            pilots: false,
-            starships: false,
-        }
-    }
-
     render() {
         return (
           <header className="flex bg-brand-lightDark justify-between items-center h-10">
             <h1 className="flex ml-2"> Star Wars Catalog</h1>
 
-
             <nav>
               <ul className="flex mr-2 gap-5">
                 <Link to="/">
-                  <li className="hover:text-brand-secondary cursor-pointer">
+                  <li className="hover:text-brand-secondary cursor-pointer ">
                     Home
                   </li>
                 </Link>
