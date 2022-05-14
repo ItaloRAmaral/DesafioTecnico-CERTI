@@ -7,11 +7,11 @@ import Starships from "../Pages/starships";
 class Content extends React.Component {
   render() {
     return (
-      <main className="Content">
+      <main>
         <Switch>
-          <Route exact path="/" component={Home} />
           <Route exact path="/pilots" component={Pilots} />
           <Route exact path="/starships" component={Starships} />
+          <Route exact path="/" component={Home} />
         </Switch>
       </main>
     );

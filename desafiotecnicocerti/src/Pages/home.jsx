@@ -8,13 +8,13 @@ class Home extends React.Component {
         className="flex h-screen bg-cover items-center justify-center gap-btnGap"
         id="home-container"
       >
-        <Link to={"/starships"}>
+        <Link to="/starships">
           <button className="uppercase bg-brand-primary p-3 rounded-lg text-brand-dark hover:bg-brand-secondary hover:text-brand-primary w-[8rem]">
             Starships
           </button>
         </Link>
 
-        <Link to={"/starships"}>
+        <Link to="/pilots">
           <button className="uppercase bg-brand-primary p-3 rounded-lg text-brand-dark hover:bg-brand-secondary hover:text-brand-primary w-[8rem]">
             Pilots
           </button>
