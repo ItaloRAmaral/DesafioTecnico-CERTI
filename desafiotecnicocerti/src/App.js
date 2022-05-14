@@ -1,13 +1,22 @@
 import React from "react";
-import Content from './components/Content';
+import { Route, Switch } from "react-router-dom";
+import Home from "./Pages/home";
+import Pilots from "./Pages/pilots";
+import Starships from "./Pages/starships";
+// import Content from './components/Content';
 import Header from './components/Header';
 
 class App extends React.Component {
   render() {
     return (
       <section>
-        <Header />
-        <Content />
+          <Header />
+          {/* <Content /> */}
+          <Switch>
+            <Route exact path="/pilots" component={Pilots} />
+            <Route exact path="/starships" component={Starships} />
+            <Route exact path="/" component={Home} />
+          </Switch>
       </section>
     );
   }
