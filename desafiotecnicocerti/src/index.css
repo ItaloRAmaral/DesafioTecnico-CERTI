@@ -9,3 +9,8 @@
 #home-container {
     background-image: url(/src/images/teste.webp)
 }
+
+#pilot-container {
+    background-image: url(/src/images/starships.jpg);
+    color: red;
+}

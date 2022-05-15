@@ -8,9 +8,9 @@ class Header extends React.Component {
             <h1 className="flex ml-2"> Star Wars Catalog</h1>
 
             <nav>
-              <ul className="flex mr-2 gap-5">
+              <ul className="flex mr-2 gap-[4rem]">
                 <Link to="/">
-                  <li className="hover:text-brand-secondary cursor-pointer ">
+                  <li className="hover:text-brand-secondary cursor-pointer">
                     Home
                   </li>
                 </Link>
