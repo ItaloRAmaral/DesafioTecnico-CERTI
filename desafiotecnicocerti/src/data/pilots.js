@@ -33,7 +33,7 @@ export const pilots = [
         birth_year: '33BBY',
         gender: 'n/a',
         homeworld: 'Naboo',
-        image: 'https://static.wikia.nocookie.net/ptstarwars/images/1/1a/R2d2.jpg/revision/latest/top-crop/width/360/height/450?cb=20060701231820',
+        image: 'https://cdn.shopify.com/s/files/1/2292/8973/products/087-02-0702_1024x1024.jpg?v=1571613262',
     },
     {
         id: 4,
@@ -57,7 +57,7 @@ export const pilots = [
         birth_year: '19BBY',
         gender: 'female',
         homeworld: 'Alderaa',
-        image: 'https://static.wikia.nocookie.net/ptstarwars/images/f/fc/Leia_Organa_TLJ.png/revision/latest?cb=20180331155538',
+        image: 'https://www.lazone.id/storage/news/November/17%20November/Fakta%20Menarik%20Peran%20Leia%20Organa%20di%20Star%20Wars%20Episode%20IX/leia%20cover.jpg',
     },
     {
         id: 6,
@@ -93,7 +93,7 @@ export const pilots = [
         birth_year: 'unknown',
         gender: 'n/a',
         homeworld: 'Tatooine',
-        image: 'https://static.wikia.nocookie.net/ptstarwars/images/2/2c/R5d4.jpg/revision/latest/top-crop/width/360/height/450?cb=20060701231838',
+        image: 'https://lumiere-a.akamaihd.net/v1/images/r5-d4_main_image_7d5f078e.jpeg?region=374%2C0%2C1186%2C666&width=960',
     },
     {
         id: 9,
@@ -129,7 +129,7 @@ export const pilots = [
         birth_year: '41.9BBY',
         gender: 'male',
         homeworld: 'Tatooine',
-        image: 'https://static.wikia.nocookie.net/ptstarwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest?cb=20151023200318',
+        image: 'https://epipoca.com.br/wp-content/uploads/2021/05/Anakin-Skywalker-Hayden-Christensen-em-Star-Wars-Reproducao.jpg',
     },
     {
         id: 12,
@@ -141,7 +141,7 @@ export const pilots = [
         birth_year: '64BBY',
         gender: 'male',
         homeworld: 'Eriadu',
-        image: 'https://static.wikia.nocookie.net/ptstarwars/images/c/c1/Tarkin1.png/revision/latest?cb=20130125200548',
+        image: 'https://cdn.80.lv/api/upload/content/22/images/6255270532e3c/widen_920x0.jpeg',
     },
     {
         id: 13,
@@ -178,6 +178,6 @@ export const pilots = [
         birth_year: '44BBY',
         gender: 'male',
         homeworld: 'Rodia',
-        image: 'https://static.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg/revision/latest?cb=20180209034210',
+        image: 'https://i.pinimg.com/736x/7c/8e/6c/7c8e6c14d85ca3ebf38c83d5a7c83b4d--d-video-sketchbook-pages.jpg',
     },
 ]

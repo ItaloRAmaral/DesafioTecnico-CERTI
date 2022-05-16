@@ -10,19 +10,28 @@ class Header extends React.Component {
             <nav>
               <ul className="flex mr-2 gap-[4rem]">
                 <Link to="/">
-                  <li className="hover:text-brand-secondary cursor-pointer">
+                  <li
+                    className="hover:text-brand-secondary cursor-pointer"
+                    data-testid="Home-link"
+                  >
                     Home
                   </li>
                 </Link>
 
                 <Link to="/pilots">
-                  <li className="hover:text-brand-secondary cursor-pointer">
+                  <li
+                    className="hover:text-brand-secondary cursor-pointer"
+                    data-testid="Pilots-link"
+                  >
                     Pilots
                   </li>
                 </Link>
 
                 <Link to="/starships">
-                  <li className="hover:text-brand-secondary cursor-pointer">
+                  <li
+                    className="hover:text-brand-secondary cursor-pointer"
+                    data-testid="Starships-link"
+                  >
                     Starships
                   </li>
                 </Link>

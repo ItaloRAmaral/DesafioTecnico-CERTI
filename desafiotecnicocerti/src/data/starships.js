@@ -9,7 +9,7 @@ export const starships = [
         crew: '30-165',
         passengers: '600',
         starship_class: 'corvette',
-        image: 'https://static.wikia.nocookie.net/ptstarwars/images/d/df/Corellian_Corvette.jpg/revision/latest?cb=20100204232329'
+        image: 'https://i.pinimg.com/originals/43/54/d3/4354d36812bdd8049b6e4a0f1a34e3cc.jpg'
     },
     {
         id: 2,
@@ -21,11 +21,11 @@ export const starships = [
         crew: '47,060',
         passengers: 'n/a',
         starship_class: 'Star Destroyer',
-        image: 'https://static.wikia.nocookie.net/starwars/images/e/e4/ImperialClassStarDestroyer-TSWB.png/revision/latest?cb=20201021053114',
+        image: 'https://lumiere-a.akamaihd.net/v1/images/Star-Destroyer_ab6b94bb.jpeg?region=0%2C50%2C1600%2C800',
     },
     {
         id: 3,
-        name: 'Sentinel-class landing craft',
+        name: 'Sentinel-class',
         model: 'Sentinel-class landing craft',
         manufacturer: 'Sienar Fleet Systems, Cyngus Spaceworks',
         length: '38',
@@ -45,7 +45,7 @@ export const starships = [
         crew: '342,953',
         passengers: '843,342',
         starship_class: 'Deep Space Mobile Battlestation',
-        image: 'https://static.wikia.nocookie.net/starwars/images/9/9d/DSI_hdapproach.png/revision/latest?cb=20130221005853',
+        image: 'https://assets.b9.com.br/wp-content/uploads/2015/12/death-star-black.jpg',
     },
     {
         id: 5,
@@ -57,7 +57,7 @@ export const starships = [
         crew: '4',
         passengers: '6',
         starship_class: 'Light freighter',
-        image: 'https://static.wikia.nocookie.net/ptstarwars/images/d/dc/Melfal.jpg/revision/latest?cb=20100418033959',
+        image: 'https://s2.glbimg.com/coHwdDkMeRVO9T2A_v1EIWLuHTE=/e.glbimg.com/og/ed/f/original/2019/08/27/31618033034_1dcde167ed_k.jpg',
     },
     {
         id: 6,
@@ -81,7 +81,7 @@ export const starships = [
         crew: '1',
         passengers: '0',
         starship_class: 'Starfighter',
-        image: 'https://static.wikia.nocookie.net/ptstarwars/images/8/80/X-wing_Fathead.png/revision/latest?cb=20160723012627',
+        image: 'https://media.sketchfab.com/models/9e47fbf0b28e40b692198ee7441d99f8/thumbnails/16157113b55e49bfacdf1f4a8f2c86d0/e037e4e0978545a3a5be2ca7e938c1b6.jpeg',
     },
     {
         id: 8,
@@ -105,7 +105,7 @@ export const starships = [
         crew: '279,144',
         passengers: '38000',
         starship_class: 'Star dreadnought',
-        image: 'https://static.wikia.nocookie.net/starwars/images/3/30/Executor_BF2.png/revision/latest?cb=20180903230846',
+        image: 'https://i.pinimg.com/originals/0a/5f/52/0a5f529fc6a2716f87d97f9fcbbf511c.jpg',
     },
     {
         id: 10,
@@ -117,7 +117,7 @@ export const starships = [
         crew: '6',
         passengers: '90',
         starship_class: 'Medium transport',
-        image: 'https://static.wikia.nocookie.net/starwars/images/e/eb/GR-75_Medium_Transport.jpg/revision/latest?cb=20070106181949',
+        image: 'https://i.pinimg.com/originals/81/87/31/8187318eccfef888a537a0177aa39594.jpg',
     },
     {
         id: 11,
@@ -129,7 +129,7 @@ export const starships = [
         crew: '1',
         passengers: '0',
         starship_class: 'assault starfighter',
-        imgae: 'https://static.wikia.nocookie.net/ptstarwars/images/2/2b/BwingATK.jpg/revision/latest/top-crop/width/360/height/450?cb=20120702230359',
+        image: 'https://cdn.wikimg.net/en/strategywiki/images/a/ac/SWS-Bwing.png',
     },
     {
         id: 12,
@@ -141,7 +141,7 @@ export const starships = [
         crew: '1',
         passengers: '6',
         starship_class: 'Patrol craft',
-        image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FSlave_I&psig=AOvVaw2ZZvSuj2bnB2I6P-HltcvN&ust=1652737395712000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICc7d284vcCFQAAAAAdAAAAABAD',
+        image: 'https://ddx5i92cqts4o.cloudfront.net/images/1dqvpe8bs_Firespray_SotG.png',
     },
     {
         id: 13,
@@ -153,11 +153,11 @@ export const starships = [
         crew: '6',
         passengers: '20',
         starship_class: 'Armed government transport',
-        image: 'https://static.wikia.nocookie.net/starwars/images/d/d3/ImperialShuttle-DB.png/revision/latest?cb=20150920051331',
+        image: 'https://lumiere-a.akamaihd.net/v1/images/veh_ia_1752_040381b2.jpeg?region=0%2C136%2C1280%2C642',
     },
     {
         id: 14,
-        name: 'EF76 Nebulon-B escort frigate',
+        name: 'EF76 Nebulon-B',
         model: 'EF76 Nebulon-B escort frigate',
         manufacturer: 'Kuat Drive Yards',
         length: '300',
@@ -165,7 +165,7 @@ export const starships = [
         crew: '854',
         passengers: '75',
         starship_class: 'Escort ship',
-        image: 'https://static.wikia.nocookie.net/starwars/images/7/71/NebulonB-SWS.png/revision/latest?cb=20210303023412',
+        image: 'https://lumiere-a.akamaihd.net/v1/images/nebulon-b-frigate_dce53bc2.jpeg?region=0%2C0%2C1181%2C664&width=960',
     },
     {
         id: 15,
