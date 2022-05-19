@@ -8,7 +8,7 @@ A proposta deste desafio era de se criar uma interface que recebesse dados da ap
 
 Foi me dado a opção de se criar o meu proprio banco de dados para resolução deste desafio, sendo assim, eu criei um banco de dados local, que foi construido com base na API solicitada. Eu decidi em fazer um banco de dados local pois quando realizado o FETCH da api, o data.results aparece apenas 10 personagens, mesmo tendo a informação que existe 82 personagens. E essa API também nao tem imagens, então foi por esses motivos que eu resolvi fazer um banco de dados local.
 
-## Como Executar
+## ⚙️ Como Executar
 Clone o repositório em uma pasta de preferência
 
 ```
@@ -34,6 +34,7 @@ npm start
 * Renderização de um banco de dados
 
 ## :hammer_and_wrench: Ferramentas Utilizadas
+
 
 * REACT
 * REACT TESTING LIBRARY
